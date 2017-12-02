@@ -38,4 +38,5 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/day_of_week" />
+
 </android.support.constraint.ConstraintLayout>
